@@ -1,0 +1,106 @@
+Script started on Tue Oct  9 01:13:14 2018
+[?1034hbash-3.2$ python minmax_a_b.py test_tree3[K1
+The nodes visited for minmax is:
+A
+B
+D
+H
+I
+E
+J
+K
+C
+F
+L
+M
+G
+N
+O
+The utility of minmax is:6.0
+The nodes visited for minmax with alpha beta pruning is:
+A
+B
+D
+H
+I
+C
+F
+L
+M
+The utility of minmax with alpha beta pruning is:6.0
+bash-3.2$ python minmax_a_b.py test_tree1[K2
+The nodes visited for minmax is:
+A
+B
+D
+H
+I
+E
+J
+K
+C
+F
+L
+M
+G
+N
+O
+The utility of minmax is:6.0
+The nodes visited for minmax with alpha beta pruning is:
+A
+B
+D
+H
+I
+C
+F
+L
+M
+The utility of minmax with alpha beta pruning is:6.0
+bash-3.2$ python minmax_a_b.py test_tree2[K3
+The nodes visited for minmax is:
+A
+B
+E
+L
+M
+F
+N
+O
+G
+P
+Q
+C
+H
+R
+S
+I
+T
+U
+D
+J
+V
+W
+K
+X
+Y
+The utility of minmax is:3.0
+The nodes visited for minmax with alpha beta pruning is:
+A
+B
+E
+L
+M
+C
+H
+R
+S
+D
+J
+V
+W
+The utility of minmax with alpha beta pruning is:3.0
+bash-3.2$ exit
+exit
+
+Script done on Tue Oct  9 01:13:36 2018
